@@ -1,5 +1,9 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
+  background-color: #eee;
+  text-align: center;
+  color: #444; }
+
+.geocode-result {
+  width: 400px;
+  margin: 0 auto;
+  text-align: left; }
